@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hero-blog",
-  "version": "2.0.0",
-  "author": "Greg Lobinski <greglobinski@gmail.com>",
+  "name": "riguel-blog",
+  "version": "3.0.0",
+  "author": "Riguel Figueiro <riguelbf@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "antd": "^3.7.0",

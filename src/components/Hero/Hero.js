@@ -9,9 +9,7 @@ const Hero = props => {
   return (
     <React.Fragment>
       <section className="hero">
-        <h1>
-          I love to share knowledge and discover new technologies
-        </h1>
+        <h1>I love to share knowledge and discover new technologies</h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>
